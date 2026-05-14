@@ -1,0 +1,6 @@
+{
+  "name": "Stock Discrepancy",
+  "description": "Smart shoe label scanner with OCR and structured data extraction.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
